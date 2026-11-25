@@ -1,0 +1,18 @@
+# Environment & Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.db
+*.sqlite3
+
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
